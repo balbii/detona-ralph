@@ -5,7 +5,7 @@ Bem-vindo ao JSGame Detona Ralph! Neste repositório, você encontrará um jogo 
 - JavaScript para a lógica de programação e interatividade.
 - Sprites e imagens customizadas para criar a estética única do universo de Detona Ralph.
 # Como Jogar
-[Clique aqui]() para jogar
+[Clique aqui](https://balbii.github.io/detona-ralph/) para jogar
 # Contribuição
 Contribuições são bem-vindas! Se você deseja melhorar este jogo, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um pull request.
 # Créditos
